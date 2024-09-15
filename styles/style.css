@@ -343,6 +343,8 @@ footer{
     color:#b9b9b9
 }
 .sec ul li a:hover{
-    color:#ffffff
+    color:#ffffff;
+    text-decoration: underline;
+    
 }
 
