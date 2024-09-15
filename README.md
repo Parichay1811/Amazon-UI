@@ -1,6 +1,6 @@
 # Amazon-UI
 
-All the sections in HTML is mention in the following Screen Shots
+Go through the bellow images to have a good understanding of the fuctionality of each HTML tags 
 
 ![Local Image](./screenShots/Screenshot%202024-09-15%20195957.png)
 ![Local Image](./screenShots/Screenshot%202024-09-15%20200022.png)
